@@ -24,8 +24,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelins7&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="guilhermelins7" height="215" />
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelins7&show_icons=true&theme=tokyonight" alt="guilhermelins7" height="215" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelins7&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="guilhermelins7" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelins7&show_icons=true&theme=tokyonight" alt="guilhermelins7" height="200" />
 </div>
 
 <h3 align="center">Contato:</h3>
