@@ -24,7 +24,7 @@
       static void Main() {
           var profile = new GitHubProfile("Sistemas de Informação", "back-end");
           Console.WriteLine(profile);
-          Console.WriteLine("Apaixonado por tecnologia!");
+          Console.WriteLine("❤️ Apaixonado por tecnologia!");
       }
   }
 ```
@@ -67,8 +67,8 @@
   📞 Contato:
   
   <div align="center">
-    <a href="https://www.linkedin.com/in/guilherme-lins7/" target= "_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/> </a>
-    <a href="mailto:guilherme7lins@gmail.com" target= "_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/> </a>
+    <a href="https://www.linkedin.com/in/guilherme-lins7/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/> </a>
+    <a href="mailto:guilherme7lins@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/> </a>
   </div>
   
 </h2>
