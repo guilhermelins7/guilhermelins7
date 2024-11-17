@@ -1,46 +1,76 @@
+<h1 align="left">Hello World!!</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&width=1000&lines=My+name+is+Guilherme!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 ```csharp
   using System;
-
-  class Program
-  {
-      static void Main()
-      {
-          Console.WriteLine("Hello, my name is Guilherme!");
-          Console.WriteLine("Welcome to my GitHub!");
+  
+  class GitHubProfile {
+      public string Degree { get; private set; }
+      public string Focus { get; private set; }
+  
+      public GitHubProfile(string degree, string focus) {
+          Degree = degree;
+          Focus = focus;
+      }
+  
+      public override string ToString() {
+          return $"🎓 Graduando em {Degree}\n" +
+                 $"🌐 Focado em me tornar desenvolvedor {Focus}";
+      }
+  }
+  
+  class Program {
+      static void Main() {
+          var profile = new GitHubProfile("Sistemas de Informação", "back-end");
+          Console.WriteLine(profile);
+          Console.WriteLine("Apaixonado por tecnologia!");
       }
   }
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<h3 align="left">
+  
+  🎓 Graduando em Sistemas de Informação
+  
+  🌐 Focado em me tornar desenvolvedor back-end
+  
+  ❤️ Apaixonado por tecnologia!  
+  
+</h3>
 
-<h1 align="center">
-🎓 Information Systems student
-
-🌐 back-end developer
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="guilhermelins7" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="guilhermelins7" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="guilhermelins7" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="guilhermelins7" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="guilhermelins7" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="guilhermelins7" height="60"/>
-</div>
-
-</h1>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelins7&show_icons=true&locale=en&layout=donut&theme=react" alt="guilhermelins7" height="170" />
   <img src="https://github-readme-stats.vercel.app/api?username=guilhermelins7&show_icons=true&theme=react" alt="guilhermelins7" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelins7&show_icons=true&locale=en&layout=compact&theme=react" alt="guilhermelins7" height="170" />
 </div>
 
-<h3 align="center">📞 Contato:</h3>
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+</div>
 
 <h2 align="center">
+  
+  📞 Contato:
+  
   <div align="center">
-    <a href="https://www.linkedin.com/in/guilherme-lins7/" target= "_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank" /> </a>
-    <a href="mailto:guilherme7lins@gmail.com" target= "_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank" /> </a>
+    <a href="https://www.linkedin.com/in/guilherme-lins7/" target= "_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/> </a>
+    <a href="mailto:guilherme7lins@gmail.com" target= "_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/> </a>
   </div>
+  
 </h2>
 
 <div align="center">
