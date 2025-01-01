@@ -1,80 +1,28 @@
-<h1 align="left">Hello World!!</h1>
+<h1>Olá, meu nome é Guilherme Lins 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&width=1000&lines=My+name+is+Guilherme!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+🎓 Estudante de Sistemas de Informação, atualmente no 4º semestre.\
+💻 Desenvolvendo projetos utilizando tecnologias como C#, .NET, JavaScript, HTML, CSS e SQL.\
+👀 Buscando minha primeira oportunidade no mercado de desenvolvimento de software.
 
-```csharp
-  using System;
-  
-  class GitHubProfile {
-      public string Degree { get; private set; }
-      public string Focus { get; private set; }
-  
-      public GitHubProfile(string degree, string focus) {
-          Degree = degree;
-          Focus = focus;
-      }
-  
-      public override string ToString() {
-          return $"🎓 Graduando em {Degree}\n" +
-                 $"🌐 Focado em me tornar desenvolvedor {Focus}";
-      }
-  }
-  
-  class Program {
-      static void Main() {
-          var profile = new GitHubProfile("Sistemas de Informação", "back-end");
-          Console.WriteLine(profile);
-          Console.WriteLine("❤️ Apaixonado por tecnologia!");
-      }
-  }
-```
+<h2>Principais tecnologias que utilizo:</h2>
 
-<h3 align="left">
-  
-  🎓 Graduando em Sistemas de Informação
-  
-  🌐 Focado em me tornar desenvolvedor back-end
-  
-  ❤️ Apaixonado por tecnologia!  
-  
-</h3>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,java)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="47" alt="microsoftsqlserver logo"/>
 
-<br>
+<h2>Minha atividade:</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelins7&show_icons=true&theme=react" alt="guilhermelins7" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermelins7&show_icons=true&locale=en&layout=compact&theme=react" alt="guilhermelins7" height="170" />
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermelins7&theme=2077" width=750  alt="stats graph"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+<h2>Entre em contato comigo:</h2>
+<div>
+  <a href="https://www.linkedin.com/in/guilherme-lins7/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/> </a>
+  <a href="https://guilhermelins7.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="30"/> </a>
+  <a href="mailto:guilherme7lins@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="30"/> </a>
 </div>
 
-<h2 align="center">
-  
-  📞 Contato:
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/guilherme-lins7/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/> </a>
-    <a href="mailto:guilherme7lins@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/> </a>
-  </div>
-  
-</h2>
+##
 
-<div align="center">
-  <img width="30%" height="200px"src="images/aot.gif" />
-  <img width="30%" height="200px" src="images/neongeva.gif" />
-  <img width="30%" height="200px" src="images/mrrobot.gif" />
-</div>
+#### Contador de visualizações de perfil
+![Visitor Count](https://profile-counter.glitch.me/{guihermelins71}/count.svg)
