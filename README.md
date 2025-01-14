@@ -12,8 +12,8 @@
 <h2>Minha atividade:</h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermelins7&theme=2077" width=60%  alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelins7&hide_progress=false&layout=compact&theme=radical" width=30%  alt="langs"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermelins7&theme=2077" width=66%  alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelins7&hide_progress=false&layout=compact&theme=radical" width=33%  alt="langs"/>
 </div>
 
 <h2>Entre em contato comigo:</h2>
