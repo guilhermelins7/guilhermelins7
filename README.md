@@ -1,21 +1,19 @@
 <h1>Olá, meu nome é Guilherme Lins 👋</h1>
 
-👨🏽‍💻 Estagiário de Desenvolvimento Front-End na @ModalGR.
-
-🎓 Estudante de Sistemas de Informação na Universidade Santa Cecília.
-
-💻 Desenvolvendo projetos utilizando tecnologias como Angular, TypeScript, C# e .NET.
+👨🏽‍💻 Estagiário de Desenvolvimento Front-End na @ModalGR. <br>
+🎓 Estudante de Sistemas de Informação na Universidade Santa Cecília. <br>
+💻 Desenvolvendo projetos utilizando tecnologias como Angular, TypeScript, PHP, C# e .NET.
 
 <h2>Principais tecnologias que utilizo:</h2>
 
 <table>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=angular,ts,nodejs"/>
+      <img src="https://skillicons.dev/icons?i=angular,ts,sass,nodejs,figma"/>
       <br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js"/>
+      <img src="https://skillicons.dev/icons?i=git,js,html,css,bootstrap"/>
       <br/>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,git"/>
+      <img src="https://skillicons.dev/icons?i=php,wordpress,cs,dotnet,mysql"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelins7&hide_progress=false&layout=compact&theme=radical" width="100%"/>
